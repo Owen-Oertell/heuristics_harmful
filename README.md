@@ -22,6 +22,6 @@ If you find this work useful, please cite:
       title={Heuristics Considered Harmful: RL With Random Rewards Should Not Make LLMs Reason}, 
       author={Owen Oertell and Wenhao Zhao and Gokul Swamy and Zhiwei Steven Wu and Kiante Brantley and Jason Lee and Wen Sun},
       year={2025},
-      url={https://www.notion.so/Heuristics-Considered-Harmful-RL-With-Random-Rewards-Should-Not-Make-LLMs-Reason-21ba29497c4180ca86ffce303f01923d}, 
+      url={https://fuchsia-arch-d8e.notion.site/Heuristics-Considered-Harmful-RL-With-Random-Rewards-Should-Not-Make-LLMs-Reason-21ba29497c4180ca86ffce303f01923d}, 
 }
 ```
