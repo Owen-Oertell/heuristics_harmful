@@ -1,0 +1,158 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "parquet",
+  "dataset_size": 726100,
+  "description": "",
+  "download_checksums": {
+    "/n/holylabs/LABS/kdbrantley_lab/Lab/zhaolin/reasoning/data/countdown/test.parquet": {
+      "num_bytes": 75122,
+      "checksum": null
+    }
+  },
+  "download_size": 75122,
+  "features": {
+    "target": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "nums": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "data_source": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "prompt": [
+      {
+        "content": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "ability": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "reward_model": {
+      "ground_truth": {
+        "numbers": {
+          "feature": {
+            "dtype": "int64",
+            "_type": "Value"
+          },
+          "_type": "Sequence"
+        },
+        "target": {
+          "dtype": "int64",
+          "_type": "Value"
+        }
+      },
+      "style": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    "extra_info": {
+      "index": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "split": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    "response_0": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_1": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_2": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_3": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_4": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_5": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_6": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_7": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_8": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_9": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_10": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_11": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_12": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_13": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_14": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_15": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 801222,
+  "splits": {
+    "test": {
+      "name": "test",
+      "num_bytes": 726100,
+      "num_examples": 1024,
+      "dataset_name": "parquet"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
